@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.2.1//EN
+N:Cojocari;Vlad;;;
+FN:Vlad Cojocari
+ORG:HQ accounting;
+EMAIL;type=INTERNET;type=HOME;type=pref:vlad@hqaccounting.com
+TEL;type=CELL;type=VOICE;type=pref:2899680710
+END:VCARD
